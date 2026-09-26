@@ -1,0 +1,14 @@
+interface:
+  display_name: Prompt Design and Optimization
+  short_description: Design, audit, and evaluate practical prompts
+  default_prompt: Use $design-and-optimize-prompts to design or improve a prompt from
+    my goals and existing materials, with concrete acceptance criteria.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
